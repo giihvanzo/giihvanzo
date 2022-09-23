@@ -1,0 +1,3 @@
+- 👋 oiie sou  @giihvanzo
+- 👀 eu estou interessada em aprender programar linguagens
+- 🌱 eu estou atualizando um programa recentemente a linguagem de javaSript e Scratch
